@@ -1,0 +1,20 @@
+#!/bin/bash
+# Usage: Pipe in a string of hexadecimals in lil endian to output ASCII
+
+# check stdin
+if [ -t 0 ]; then exit; fi
+
+# removes 0x that you get when double clicking in ghidra
+str=`cat /dev/stdin | sed 's/0x//g'`
+len=${#str}
+
+# iterates by 2 chars starting from end of string
+while [ $len -gt 0 ]
+do
+    len=$[$len-2]
+    echo -n '\x' >> output.txt
+    echo -n ${str:$len:2} >> output.txt
+done
+
+printf $(cat output.txt)
+rm output.txt

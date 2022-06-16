@@ -1,0 +1,15 @@
+#!/bin/bash
+# Usage: Pipe in a string of ascii to output decimals
+
+# check stdin
+if [ -t 0 ]; then exit; fi
+
+str=`cat /dev/stdin`
+
+for (( i=0; i<${#str}; i++))
+do
+    printf "%d " \'${str:$i:1}
+done
+
+#printf $(cat output.txt)
+#rm output.txt
