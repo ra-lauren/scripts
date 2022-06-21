@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+
+# Notworking yet
+from xorencryption import XOREncryption
+import sys
+
+plain = input("Input plaintext: \n")
+key = 'w0w'
+cipher = '5d5HGoFo"R"XC'
+
+enc = XOREncryption()
+
+enc.set_plaintext(plaintext=plain)
+enc.set_key(key=key)
+
+print(enc.encrypt())
+print(enc.decrypt())
