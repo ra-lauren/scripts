@@ -1,171 +1,272 @@
-ABCcovid.com.		5	IN	A	45.33.2.79
-ABCcovid.com.		5	IN	A	72.14.178.174
+ABCcovid.com.		5	IN	A	173.255.194.134
+ABCcovid.com.		5	IN	A	45.33.20.235
 ABQcovid.com.		5	IN	A	45.88.202.115
+
 ABccovid.com.		5	IN	A	96.126.123.244
-ABccovid.com.		5	IN	A	45.56.79.23
+ABccovid.com.		5	IN	A	198.58.118.167
 ABqcovid.com.		5	IN	A	45.88.202.115
+
 ACEcovid.com.		5	IN	A	15.197.142.173
 ACEcovid.com.		5	IN	A	3.33.152.147
-ACYcovid.com.		5	IN	A	34.102.136.180
 ACecovid.com.		5	IN	A	15.197.142.173
 ACecovid.com.		5	IN	A	3.33.152.147
+ACYcovid.com.		5	IN	A	34.102.136.180
+
 ACycovid.com.		5	IN	A	34.102.136.180
+
 ADLcovid.com.		5	IN	A	64.98.145.30
+
 ADMcovid.com.		5	IN	A	74.220.199.6
+
 ADNcovid.com.		5	IN	A	35.208.14.130
-ADlcovid.com.		5	IN	A	64.98.145.30
-ADmcovid.com.		5	IN	A	74.220.199.6
+
 ADncovid.com.		5	IN	A	35.208.14.130
+
+ADlcovid.com.		5	IN	A	64.98.145.30
+
+ADmcovid.com.		5	IN	A	74.220.199.6
+
 AGEcovid.com.		5	IN	A	45.88.202.115
+
 AGTcovid.com.		5	IN	A	18.189.33.86
+
 AGecovid.com.		5	IN	A	45.88.202.115
+
 AGtcovid.com.		5	IN	A	18.189.33.86
-AHAcovid.com.		5	IN	A	91.195.240.117
-AHacovid.com.		5	IN	A	91.195.240.117
+
 AIDcovid.com.		5	IN	A	45.88.202.115
-AIRcovid.com.		5	IN	A	45.88.202.115
-AIScovid.com.		5	IN	A	160.153.137.14
+
 AIdcovid.com.		5	IN	A	45.88.202.115
+
+AIRcovid.com.		5	IN	A	45.88.202.115
+
+AIScovid.com.		5	IN	A	160.153.137.14
+
 AIrcovid.com.		5	IN	A	45.88.202.115
+
 AIscovid.com.		5	IN	A	160.153.137.14
+
 AI4covid.com.		5	IN	A	66.96.160.151
+
+ALTcovid.com.		5	IN	A	45.88.202.115
+
 ALLcovid.com.		5	IN	CNAME	comingsoon.namebright.com.
 comingsoon.namebright.com. 5	IN	CNAME	cdl-lb-1356093980.us-east-1.elb.amazonaws.com.
-ALTcovid.com.		5	IN	A	45.88.202.115
 ALlcovid.com.		5	IN	CNAME	comingsoon.namebright.com.
 comingsoon.namebright.com. 5	IN	CNAME	cdl-lb-1356093980.us-east-1.elb.amazonaws.com.
 ALtcovid.com.		5	IN	A	45.88.202.115
+
 AMAcovid.com.		5	IN	A	45.88.202.115
-AMDcovid.com.		5	IN	A	209.17.116.160
+
 AMacovid.com.		5	IN	A	45.88.202.115
+
 AMdcovid.com.		5	IN	A	209.17.116.160
+
 ANPcovid.com.		5	IN	A	185.230.63.171
 ANPcovid.com.		5	IN	A	185.230.63.186
 ANpcovid.com.		5	IN	A	185.230.63.171
 ANpcovid.com.		5	IN	A	185.230.63.186
+AMDcovid.com.		5	IN	A	209.17.116.160
+
 AOCcovid.com.		5	IN	A	52.203.36.44
-AOCcovid.com.		5	IN	A	52.73.153.209
-AOccovid.com.		5	IN	A	34.196.254.27
-AOccovid.com.		5	IN	A	68.183.23.220
+AOCcovid.com.		5	IN	A	64.227.12.111
+AOccovid.com.		5	IN	A	52.73.153.209
+AOccovid.com.		5	IN	A	52.73.87.228
 APAcovid.com.		5	IN	A	34.102.136.180
+
 APOcovid.com.		5	IN	A	34.102.136.180
+
 APacovid.com.		5	IN	A	34.102.136.180
+
 APocovid.com.		5	IN	A	34.102.136.180
+
 ARCcovid.com.		5	IN	A	52.0.19.253
+
 ARTcovid.com.		5	IN	A	99.83.175.80
+
 ARccovid.com.		5	IN	A	52.0.19.253
+
 ARtcovid.com.		5	IN	A	99.83.175.80
+
+ASIcovid.com.		5	IN	A	45.84.189.67
+
 ASAcovid.com.		5	IN	CNAME	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com.
 prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com. 5 IN	A 3.21.90.33
-ASIcovid.com.		5	IN	A	45.84.189.67
-ASKcovid.com.		5	IN	A	104.21.76.118
 ASKcovid.com.		5	IN	A	172.67.193.216
+ASKcovid.com.		5	IN	A	104.21.76.118
 ASLcovid.com.		5	IN	A	34.102.136.180
+
 ASOcovid.com.		5	IN	A	34.102.136.180
+
 ASacovid.com.		5	IN	CNAME	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com.
 prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com. 5 IN	A 3.21.90.33
-ASicovid.com.		5	IN	A	45.84.189.67
-ASkcovid.com.		5	IN	A	104.21.76.118
-ASkcovid.com.		5	IN	A	172.67.193.216
 ASlcovid.com.		5	IN	A	34.102.136.180
+
 ASocovid.com.		5	IN	A	34.102.136.180
-ATKcovid.com.		5	IN	A	43.241.59.54
+
+ASkcovid.com.		5	IN	A	172.67.193.216
+ASkcovid.com.		5	IN	A	104.21.76.118
+ASicovid.com.		5	IN	A	45.84.189.67
+
 ATLcovid.com.		5	IN	A	45.88.202.115
-ATScovid.com.		5	IN	A	34.102.136.180
-ATVcovid.com.		5	IN	A	34.98.99.30
+
 ATXcovid.com.		5	IN	A	15.197.142.173
 ATXcovid.com.		5	IN	A	3.33.152.147
-ATkcovid.com.		5	IN	A	43.241.59.54
-ATlcovid.com.		5	IN	A	45.88.202.115
+ATScovid.com.		5	IN	A	34.102.136.180
+
+ATVcovid.com.		5	IN	A	34.98.99.30
+
+ATKcovid.com.		5	IN	A	43.241.59.54
+
 ATscovid.com.		5	IN	A	34.102.136.180
+
 ATvcovid.com.		5	IN	A	34.98.99.30
+
+ATlcovid.com.		5	IN	A	45.88.202.115
+
+ATkcovid.com.		5	IN	A	43.241.59.54
+
 ATxcovid.com.		5	IN	A	15.197.142.173
 ATxcovid.com.		5	IN	A	3.33.152.147
 AUScovid.com.		5	IN	A	54.38.220.85
+
 AUscovid.com.		5	IN	A	54.38.220.85
+
 AZ-covid.com.		5	IN	A	34.98.99.30
-AbCcovid.com.		5	IN	A	96.126.123.244
-AbCcovid.com.		5	IN	A	45.56.79.23
+
+AbCcovid.com.		5	IN	A	72.14.185.43
+AbCcovid.com.		5	IN	A	45.33.20.235
 AbQcovid.com.		5	IN	A	45.88.202.115
-Abccovid.com.		5	IN	A	96.126.123.244
-Abccovid.com.		5	IN	A	45.56.79.23
+
+Abccovid.com.		5	IN	A	173.255.194.134
+Abccovid.com.		5	IN	A	45.33.20.235
 Abqcovid.com.		5	IN	A	45.88.202.115
+
 AcEcovid.com.		5	IN	A	15.197.142.173
 AcEcovid.com.		5	IN	A	3.33.152.147
-AcYcovid.com.		5	IN	A	34.102.136.180
 Acecovid.com.		5	IN	A	15.197.142.173
 Acecovid.com.		5	IN	A	3.33.152.147
+AcYcovid.com.		5	IN	A	34.102.136.180
+
 Acycovid.com.		5	IN	A	34.102.136.180
-AdLcovid.com.		5	IN	A	64.98.145.30
-AdMcovid.com.		5	IN	A	74.220.199.6
+
 AdNcovid.com.		5	IN	A	35.208.14.130
+
+AdLcovid.com.		5	IN	A	64.98.145.30
+
+AdMcovid.com.		5	IN	A	74.220.199.6
+
 Adlcovid.com.		5	IN	A	64.98.145.30
+
 Admcovid.com.		5	IN	A	74.220.199.6
+
 Adncovid.com.		5	IN	A	35.208.14.130
+
 AgEcovid.com.		5	IN	A	45.88.202.115
+
 AgTcovid.com.		5	IN	A	18.189.33.86
+
 Agecovid.com.		5	IN	A	45.88.202.115
+
 Agtcovid.com.		5	IN	A	18.189.33.86
-AhAcovid.com.		5	IN	A	91.195.240.117
-Ahacovid.com.		5	IN	A	91.195.240.117
+
 AiDcovid.com.		5	IN	A	45.88.202.115
-AiRcovid.com.		5	IN	A	45.88.202.115
+
 AiScovid.com.		5	IN	A	160.153.137.14
+
+AiRcovid.com.		5	IN	A	45.88.202.115
+
 Aidcovid.com.		5	IN	A	45.88.202.115
-Aircovid.com.		5	IN	A	45.88.202.115
+
 Aiscovid.com.		5	IN	A	160.153.137.14
+
+Aircovid.com.		5	IN	A	45.88.202.115
+
 Ai4covid.com.		5	IN	A	66.96.160.151
+
 AlLcovid.com.		5	IN	CNAME	comingsoon.namebright.com.
 comingsoon.namebright.com. 5	IN	CNAME	cdl-lb-1356093980.us-east-1.elb.amazonaws.com.
 AlTcovid.com.		5	IN	A	45.88.202.115
+
 Allcovid.com.		5	IN	CNAME	comingsoon.namebright.com.
 comingsoon.namebright.com. 5	IN	CNAME	cdl-lb-1356093980.us-east-1.elb.amazonaws.com.
 Altcovid.com.		5	IN	A	45.88.202.115
-AmAcovid.com.		5	IN	A	45.88.202.115
+
 AmDcovid.com.		5	IN	A	209.17.116.160
-Amacovid.com.		5	IN	A	45.88.202.115
+
+AmAcovid.com.		5	IN	A	45.88.202.115
+
 Amdcovid.com.		5	IN	A	209.17.116.160
-AnPcovid.com.		5	IN	A	185.230.63.171
+
+Amacovid.com.		5	IN	A	45.88.202.115
+
 AnPcovid.com.		5	IN	A	185.230.63.186
-Anpcovid.com.		5	IN	A	185.230.63.171
+AnPcovid.com.		5	IN	A	185.230.63.171
+Anpcovid.com.		5	IN	A	185.230.63.107
 Anpcovid.com.		5	IN	A	185.230.63.186
-AoCcovid.com.		5	IN	A	52.203.36.44
 AoCcovid.com.		5	IN	A	54.205.240.192
-Aoccovid.com.		5	IN	A	34.194.149.67
-Aoccovid.com.		5	IN	A	34.196.254.27
+AoCcovid.com.		5	IN	A	52.204.121.99
+Aoccovid.com.		5	IN	A	52.73.153.209
+Aoccovid.com.		5	IN	A	68.183.29.183
 ApAcovid.com.		5	IN	A	34.102.136.180
+
 ApOcovid.com.		5	IN	A	34.102.136.180
+
 Apacovid.com.		5	IN	A	34.102.136.180
+
 Apocovid.com.		5	IN	A	34.102.136.180
+
 ArCcovid.com.		5	IN	A	52.0.19.253
+
 ArTcovid.com.		5	IN	A	99.83.175.80
+
 Arccovid.com.		5	IN	A	52.0.19.253
+
 Artcovid.com.		5	IN	A	99.83.175.80
+
+AsKcovid.com.		5	IN	A	172.67.193.216
+AsKcovid.com.		5	IN	A	104.21.76.118
 AsAcovid.com.		5	IN	CNAME	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com.
 prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com. 5 IN	A 3.128.220.50
 AsIcovid.com.		5	IN	A	45.84.189.67
-AsKcovid.com.		5	IN	A	172.67.193.216
-AsKcovid.com.		5	IN	A	104.21.76.118
+
 AsLcovid.com.		5	IN	A	34.102.136.180
+
 AsOcovid.com.		5	IN	A	34.102.136.180
+
 Asacovid.com.		5	IN	CNAME	prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com.
 prod-sav-park-lb01-1919960993.us-east-2.elb.amazonaws.com. 5 IN	A 3.21.90.33
 Asicovid.com.		5	IN	A	45.84.189.67
+
+Aslcovid.com.		5	IN	A	34.102.136.180
+
 Askcovid.com.		5	IN	A	104.21.76.118
 Askcovid.com.		5	IN	A	172.67.193.216
-Aslcovid.com.		5	IN	A	34.102.136.180
 Asocovid.com.		5	IN	A	34.102.136.180
-AtKcovid.com.		5	IN	A	43.241.59.54
+
 AtLcovid.com.		5	IN	A	45.88.202.115
-AtScovid.com.		5	IN	A	34.102.136.180
+
+AtKcovid.com.		5	IN	A	43.241.59.54
+
 AtVcovid.com.		5	IN	A	34.98.99.30
+
+AtScovid.com.		5	IN	A	34.102.136.180
+
 AtXcovid.com.		5	IN	A	15.197.142.173
 AtXcovid.com.		5	IN	A	3.33.152.147
-Atkcovid.com.		5	IN	A	43.241.59.54
 Atlcovid.com.		5	IN	A	45.88.202.115
-Atscovid.com.		5	IN	A	34.102.136.180
+
 Atvcovid.com.		5	IN	A	34.98.99.30
+
+Atscovid.com.		5	IN	A	34.102.136.180
+
 Atxcovid.com.		5	IN	A	15.197.142.173
 Atxcovid.com.		5	IN	A	3.33.152.147
+Atkcovid.com.		5	IN	A	43.241.59.54
+
 AuScovid.com.		5	IN	A	54.38.220.85
+
 Auscovid.com.		5	IN	A	54.38.220.85
+
+Az-covid.com.		5	IN	A	34.98.99.30
+

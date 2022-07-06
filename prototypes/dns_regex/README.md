@@ -1,31 +1,32 @@
-#!/usr/bin/env python3
-'''
-1st way:
+Situation: domain name searches/websites are limited because of query abuse or are hidden behind a paywall.
+Thought: How to search a keyword without paying.
+
+
+# 1st way
 1. Regex/wildcard registries
 
-Issue:
-1. Not allowed or restricted.....
+## Constraints/Restrictions
+1. Not allowed, restricted, get rate-limited, or banned.....
 
+# 2nd way
+1. Get around the paywalls themselves
 
-2nd way:
+## Constraints/Restrictions
+1. Not gnna get into that
+
+# 3rd way
 1. PRINT all chars of valid domain string (^[0-9A-Za-z._-]+$) onto a list   
 2. Iterate over the list of char while inserting KEYWORD into the string while simultaenously subtracting the len(KEYWORD) from the string to keep it valid
 
-Problem:
-1. Bruteforcing whois/dns servers is not a great idea......... to be continued...
-'''
+## Constraints/Restrictions
+1. Bruteforcing/crawling whois/dns servers is gnna take a chunk of resources/time
+[bash prototype](dns_regex.sh)
+//TODO: Find something similar that's out there already
 
+# 4th way (Most feasibile)
+curl/wget/python request multiple websites and aggregate all the results back.
 
-
-
-
-
-
-'''
-3rd way:
-curl, wget, python request websites to get results back.
-
-Issue:
+## Constraints/Restrictions
 1. <h1>Forbidden Access</h1>
 <p>Oops, something went wrong with your request! Please only submit content through the web forms with a current browser.</p>
 

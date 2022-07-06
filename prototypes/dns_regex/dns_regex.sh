@@ -22,8 +22,10 @@ read keyword
 #    -b $'tlds=255' \
 #    $'https://www.namedroppers.com/b/q?adv=1&k=covid&x=23&y=25&exclude=&order=0&min=1&max=63&org=1'
 
+#nul=${printf 'A\0A'; printf -- '%.0sA' {1..2};}
+#echo $nul
 
-chars=(A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z 0 1 2 3 4 5 6 7 8 9 - _ )
+chars=('' A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z 0 1 2 3 4 5 6 7 8 9 - _ )
 array_dns_srvrs=(`cat list_publicdns.txt`)
 len_array_dns=${#array_dns_srvrs[@]}
 counter=0
@@ -32,7 +34,7 @@ counter=0
 for a in ${chars[@]}; do
     for b in ${chars[@]}; do
         for c in ${chars[@]}; do
-            dig $a$b$c$keyword.com ${array_dns_srvrs[$counter]} | grep -A 2 "ANSWER SEC" | grep -v "ANS" | tee -a results_dig.txt &
+            dig $a$b$c$keyword.com ${array_dns_srvrs[$counter]} | grep -A 2 "ANSWER SEC" | grep -v "ANS" | tee -a results_dig2.txt &
             ((counter++))
             if (($counter >= $len_array_dns))
             then
@@ -41,3 +43,27 @@ for a in ${chars[@]}; do
         done
     done
 done
+
+#for a in ${chars[@]}; do
+#    for b in ${chars[@]}; do
+#        for c in ${chars[@]}; do
+#            for d in ${chars[@]}; do
+#                for e in ${chars[@]}; do
+#                    for f in ${chars[@]}; do
+#                        for g in ${chars[@]}; do
+#                            for h in ${chars[@]}; do
+#            
+#                                dig $a$b$c$d$e$f$g$h$keyword.com ${array_dns_srvrs[$counter]} | grep -A 2 "ANSWER SEC" | grep -v "ANS" | tee -a results_dig3.txt &
+#                                ((counter++))
+#                                if (($counter >= $len_array_dns))
+#                                then
+#                                    counter=0
+#                                fi
+#                            done
+#                        done
+#                    done
+#                done
+#            done
+#        done
+#    done
+#done
