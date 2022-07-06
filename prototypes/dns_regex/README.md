@@ -1,27 +1,26 @@
 Situation: domain name searches/websites are limited because of query abuse or are hidden behind a paywall.  
 Thought: How to search a keyword without paying.
 
-
 # 1st way
 1. Regex/wildcard registries
 ```
 whois -h whois.verisign-grs.net [KEYWORD]
 ```
 
-## Constraints/Restrictions
+### Constraints/Restrictions
 1. Not allowed, restricted, get rate-limited, or banned.....
 
 # 2nd way
 1. Get around the paywalls themselves
 
-## Constraints/Restrictions
+### Constraints/Restrictions
 1. Not gnna get into that
 
 # 3rd way
 1. PRINT all chars of valid domain string (^[0-9A-Za-z._-]+$) onto a list   
 2. Iterate over the list of char while inserting KEYWORD into the string while simultaenously subtracting the len(KEYWORD) from the string to keep it valid
 
-## Constraints/Restrictions
+### Constraints/Restrictions
 1. Bruteforcing/crawling whois/dns servers is gnna take a chunk of resources/time  
 [bash prototype](dns_regex.sh)  
 //TODO: Find something similar that's out there already or gerry-rig one from multiple FOSS.
@@ -29,7 +28,7 @@ whois -h whois.verisign-grs.net [KEYWORD]
 # 4th way (Most feasibile)
 curl/wget/python request multiple websites/ and aggregate all the results back.
 
-## Constraints/Restrictions
+### Constraints/Restrictions
 1. Forbidden ...for now
 ```
 <h1>Forbidden Access</h1>
@@ -62,3 +61,6 @@ for url in list_urls:
     use_requests(url)
 ```
 '''
+
+# Resources used
+https://public-dns.info/        //[list_publicdns.txt](list_publicdns.txt) has US servers only
