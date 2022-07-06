@@ -4,6 +4,9 @@ Thought: How to search a keyword without paying.
 
 # 1st way
 1. Regex/wildcard registries
+```
+whois -h whois.verisign-grs.net [KEYWORD]
+```
 
 ## Constraints/Restrictions
 1. Not allowed, restricted, get rate-limited, or banned.....
@@ -27,17 +30,18 @@ Thought: How to search a keyword without paying.
 curl/wget/python request multiple websites/ and aggregate all the results back.
 
 ## Constraints/Restrictions
-1. <h1>Forbidden Access</h1>
+1. Forbidden ...for now
+```
+<h1>Forbidden Access</h1>
 <p>Oops, something went wrong with your request! Please only submit content through the web forms with a current browser.</p>
 
-```
+//curl cmd
 └─# curl -i -s -k -X $'GET' \
     -H $'Host: www.namedroppers.com' -H $'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0' -H $'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' -H $'Accept-Language: en-US,en;q=0.5' -H $'Accept-Encoding: gzip, deflate' -H $'Upgrade-Insecure-Requests: 1' -H $'Sec-Fetch-Dest: document' -H $'Sec-Fetch-Mode: navigate' -H $'Sec-Fetch-Site: none' -H $'Sec-Fetch-User: ?1' -H $'Cache-Control: max-age=0' -H $'Te: trailers' -H $'Connection: close' \
     -b $'tlds=255' \
     $'https://www.namedroppers.com/b/q?adv=1&k=covid&x=23&y=25&exclude=&order=0&min=1&max=63&org=1'
-```
 
-```
+//python script
 import requests
 
 # This is in case a site requires an api key
