@@ -63,4 +63,4 @@ for url in list_urls:
 '''
 
 # Resources used
-https://public-dns.info/        //[list_publicdns.txt](list_publicdns.txt) has US servers only
+[list_publicdns.txt](list_publicdns.txt) has US servers only found in https://public-dns.info/
