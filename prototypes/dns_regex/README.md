@@ -26,7 +26,7 @@ whois -h whois.verisign-grs.net [KEYWORD]
 //TODO: Find something similar that's out there already or gerry-rig one from multiple FOSS.
 
 # 4th way (Most feasibile)
-curl/wget/python request multiple websites/registries and aggregate all the results back.
+curl/wget/python request or crawl multiple websites/registries and aggregate all the results back.
 
 ### Constraints/Restrictions
 1. Forbidden ...for now
