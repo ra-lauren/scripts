@@ -21,10 +21,10 @@ Thought: How to search a keyword without paying.
 ## Constraints/Restrictions
 1. Bruteforcing/crawling whois/dns servers is gnna take a chunk of resources/time
 [bash prototype](dns_regex.sh)
-//TODO: Find something similar that's out there already
+//TODO: Find something similar that's out there already or gerry-rig one from multiple FOSS.
 
 # 4th way (Most feasibile)
-curl/wget/python request multiple websites and aggregate all the results back.
+curl/wget/python request multiple websites/ and aggregate all the results back.
 
 ## Constraints/Restrictions
 1. <h1>Forbidden Access</h1>
