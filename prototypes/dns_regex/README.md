@@ -19,8 +19,8 @@ Thought: How to search a keyword without paying.
 2. Iterate over the list of char while inserting KEYWORD into the string while simultaenously subtracting the len(KEYWORD) from the string to keep it valid
 
 ## Constraints/Restrictions
-1. Bruteforcing/crawling whois/dns servers is gnna take a chunk of resources/time
-[bash prototype](dns_regex.sh)
+1. Bruteforcing/crawling whois/dns servers is gnna take a chunk of resources/time  
+[bash prototype](dns_regex.sh)  
 //TODO: Find something similar that's out there already or gerry-rig one from multiple FOSS.
 
 # 4th way (Most feasibile)
