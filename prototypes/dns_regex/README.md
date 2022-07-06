@@ -70,7 +70,7 @@ for url in list_urls:
 
 
 # Interesting Repos
-https://github.com/publicsuffix/list
-https://github.com/koroban/WhoisParser
-https://github.com/xPaw/DomainNameSearch
-https://github.com/elceef/dnstwist/blob/master/docs/README.md
+https://github.com/publicsuffix/list  
+https://github.com/koroban/WhoisParser  
+https://github.com/xPaw/DomainNameSearch  
+https://github.com/elceef/dnstwist/blob/master/docs/README.md  
