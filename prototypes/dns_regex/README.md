@@ -67,3 +67,10 @@ for url in list_urls:
 
 # Resources used
 [list_publicdns.txt](list_publicdns.txt) has US servers only found in https://public-dns.info/
+
+
+# Interesting Repos
+https://github.com/publicsuffix/list
+https://github.com/koroban/WhoisParser
+https://github.com/xPaw/DomainNameSearch
+https://github.com/elceef/dnstwist/blob/master/docs/README.md

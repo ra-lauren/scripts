@@ -270,3 +270,39 @@ Auscovid.com.		5	IN	A	54.38.220.85
 
 Az-covid.com.		5	IN	A	34.98.99.30
 
+ABCcovid.com.		5	IN	A	198.58.118.167
+ABCcovid.com.		5	IN	A	45.33.18.44
+ABQcovid.com.		5	IN	A	45.88.202.115
+
+ABccovid.com.		5	IN	A	96.126.123.244
+ABccovid.com.		5	IN	A	198.58.118.167
+ABqcovid.com.		5	IN	A	45.88.202.115
+
+ACEcovid.com.		5	IN	A	15.197.142.173
+ACEcovid.com.		5	IN	A	3.33.152.147
+ACecovid.com.		5	IN	A	15.197.142.173
+ACecovid.com.		5	IN	A	3.33.152.147
+ACYcovid.com.		5	IN	A	34.102.136.180
+
+ACycovid.com.		5	IN	A	34.102.136.180
+
+ADNcovid.com.		5	IN	A	35.208.14.130
+
+ADMcovid.com.		5	IN	A	74.220.199.6
+
+ADLcovid.com.		5	IN	A	64.98.145.30
+
+ADmcovid.com.		5	IN	A	74.220.199.6
+
+ADlcovid.com.		5	IN	A	64.98.145.30
+
+ADncovid.com.		5	IN	A	35.208.14.130
+
+AGEcovid.com.		5	IN	A	45.88.202.115
+
+AGTcovid.com.		5	IN	A	18.189.33.86
+
+AGecovid.com.		5	IN	A	45.88.202.115
+
+AGtcovid.com.		5	IN	A	18.189.33.86
+
