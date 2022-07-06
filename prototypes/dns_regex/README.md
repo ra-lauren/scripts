@@ -1,4 +1,4 @@
-Situation: domain name searches/websites are limited because of query abuse or are hidden behind a paywall.
+Situation: domain name searches/websites are limited because of query abuse or are hidden behind a paywall.  
 Thought: How to search a keyword without paying.
 
 
