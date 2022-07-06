@@ -26,7 +26,7 @@ whois -h whois.verisign-grs.net [KEYWORD]
 //TODO: Find something similar that's out there already or gerry-rig one from multiple FOSS.
 
 # 4th way (Most feasibile)
-curl/wget/python request multiple websites/ and aggregate all the results back.
+curl/wget/python request multiple websites/registries and aggregate all the results back.
 
 ### Constraints/Restrictions
 1. Forbidden ...for now
@@ -63,7 +63,7 @@ for url in list_urls:
 '''
 
 # Nth way 
-//Where there's a will there's a way, but is there time??
+//Where there's a will there's a way
 
 # Resources used
 [list_publicdns.txt](list_publicdns.txt) has US servers only found in https://public-dns.info/
