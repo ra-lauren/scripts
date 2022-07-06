@@ -62,5 +62,8 @@ for url in list_urls:
 ```
 '''
 
+# Nth way 
+//Where there's a will there's a way, but is there time??
+
 # Resources used
 [list_publicdns.txt](list_publicdns.txt) has US servers only found in https://public-dns.info/
